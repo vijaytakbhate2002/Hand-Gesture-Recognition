@@ -1,9 +1,0 @@
-Introduction - 0
-Help - 1
-Hungryness - 2
-where is - 3
-location (address) - 4
-emergency - 5
-wait / stop - 6
-I am - 7 
-
